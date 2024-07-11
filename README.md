@@ -1,1 +1,0 @@
-*Store-Mangement-System*
